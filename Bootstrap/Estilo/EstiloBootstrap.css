@@ -1,0 +1,14 @@
+.d-block {
+    height: 80vh;
+    /* pegando 80% doq esta sendo visualizado da pagina */
+}
+
+#carouselExampleCaptions .carousel-caption h5 {
+    font-size: 40px;
+    color: red;
+}
+
+#carouselExampleCaptions .carousel-caption p {
+    font-size: 20px;
+    color: blue;
+}
